@@ -125,10 +125,10 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 const Locations = {
-  server: 'https://api.discordapps.dev',
+  server: 'https://boring-franklin-a3c88f.netlify.app',
   // server: 'http://127.0.0.1:8000',
   cdn: 'https://api.discordapps.dev',
-  domain: 'https://discordapps.dev',
+  domain: 'https://boring-franklin-a3c88f.netlify.app',
   docsServer: 'https://docs.discordapps.dev',
   // docsServer: 'http://127.0.0.1:8080',
   logo: 'https://api.discordapps.dev/img/logo/logo.svg',
@@ -2307,8 +2307,8 @@ module.exports = {
     "VIEW_AUDIT_LOG": "View Audit Log"
   },
   "site": {
-    "name": "Discord Apps",
-    "description": "discordapps.dev is an application store for Discord bots. Install applications for music, news, moderation and more for your server."
+    "name": "DisBotList",
+    "description": "DisBotList is an application store for Discord bots. Install applications for music, news, moderation and more for your server."
   },
   "states": {
     "queue": "Ikke verificeret"
@@ -2343,7 +2343,7 @@ module.exports = {
     "notifications": "Meldungen",
     "other": "Andere"
   },
-  "copyright": "Copyright 2017 - 2019, Terminal.ink; Discord ist eine eingetragene Marke von Discord Inc.",
+  "copyright": "Copyright 2017 - 2019, DisBotList; Discord ist eine eingetragene Marke von Discord Inc.",
   "errors": {
     "apps": {
       "authors": "Du musst mindestens einen Autor haben und alle Autor IDs müssen nummerisch sein",
@@ -2692,7 +2692,7 @@ module.exports = {
     "VIEW_AUDIT_LOG": "Auditlogs ansehen"
   },
   "site": {
-    "name": "Discord Apps",
+    "name": "DisBotList",
     "description": "discordapps.dev ist ein applikations-store für Discord Bots. Installiere applikationen für Musik, News, Moderation und mehr für deinen Server."
   },
   "states": {
@@ -2727,7 +2727,7 @@ module.exports = {
   "alt": {
     "avatar": "Avatar for {name}"
   },
-  "copyright": "Copyright 2017 - 2019, Terminal.ink",
+  "copyright": "Copyright 2017 - 2019, DisBotList",
   "errors": {
     "rpc": {
       "invite": "The installation URL must filled out, and also be a valid HTTPS link"
@@ -2797,7 +2797,7 @@ module.exports = {
     "terminal": "Terminal.ink",
     "terms": "Terms",
     "docs": "Docs",
-    "foss": "Discord Apps is powered by the Terminal.ink Bot List Open Source Project",
+    "foss": "DisBotList is powered by the Terminal.ink Bot List Open Source Project",
     "apple": "Apple, the Apple logo, iPhone, and iPad are trademarks of Apple Inc., registered in the U.S. and other countries and regions. App Store is a service mark of Apple Inc."
   },
   "forms": {
@@ -3131,7 +3131,7 @@ module.exports = {
       "more": "View more",
       "noMore": "There are no more posts!",
       "back": "Back to posts",
-      "title": "Terminal.ink Documentation and Blog",
+      "title": "DisBotList Documentation and Blog",
       "description": "See posts about how Terminal.ink operates, or see a tutorial on how to do something.",
       "copy": "Click to copy link to this section",
       "copied": "Copied link to your clipboard",
@@ -3191,9 +3191,9 @@ module.exports = {
     "VIEW_AUDIT_LOG": "View Audit Log"
   },
   "site": {
-    "name": "Discord Apps",
+    "name": "DisBotList",
     "subheading": "Find bots to enhance your server",
-    "description": "discordapps.dev is an application store for Discord applications. Install bots for music, news, moderation and more for your server, or install RPC plugins to show off what you're doing."
+    "description": "DisBotList is an application store for Discord applications. Install bots for music, news, moderation and more for your server, or install RPC plugins to show off what you're doing."
   },
   "states": {
     "approved": "Approved",
@@ -3270,7 +3270,7 @@ module.exports = {
     "notifications": "Notifications",
     "other": "Autre"
   },
-  "copyright": "Copyright 2017 - 2019, Terminal.ink; Discord est une marque appartenant Discord Inc.\nTraduction en français par iDroid27, Bowser65, blue et Lionir.",
+  "copyright": "Copyright 2017 - 2019, AviaBays; Discord est une marque appartenant Discord Inc.\nTraduction en français par iDroid27, Bowser65, blue et Lionir.",
   "errors": {
     "apps": {
       "authors": "Vous devez avoir au moins 1 auteur de ce bot, et tous vos IDs doivent être numériques",
