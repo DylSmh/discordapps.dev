@@ -14,7 +14,7 @@ const element = document.getElementById('app')
 let basename = '/';
 
 if (window.location.hostname === 'dylsmh.github.io') {
-  basename = '/discordapps.dev/';
+  basename = 'boring-franklin-a3c88f.netlify.app';
 }
 
 const app = (
