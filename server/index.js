@@ -2794,7 +2794,7 @@ module.exports = {
     "licence": "GNU AGPLv3",
     "source": "GitHub",
     "discord": "Discord",
-    "terminal": "Terminal.ink",
+    "terminal": "DisBotList",
     "terms": "Terms",
     "docs": "Docs",
     "foss": "DisBotList is powered by the Terminal.ink Bot List Open Source Project",
@@ -2852,8 +2852,8 @@ module.exports = {
         "link": "Start sharing"
       },
       "discover": {
-        "title": "Discover Terminal.ink",
-        "description": "See how we work on improving the Terminal.ink Bot List Open Source Project",
+        "title": "Discover DisBotList",
+        "description": "See how we work on improving the DisBotList Bot List Open Source Project",
         "link": "Blog"
       },
       "topBots": "Top Rated Bots",
@@ -2884,7 +2884,7 @@ module.exports = {
         "title": "Bot List",
         "description": "Find a Discord Bot for your server to improve your work-flow, add a bit of fun or listen together with Discord Bots. Browse bots and more on Discord Apps"
       },
-      "backgroundAlt": "The logo for discordapps.dev",
+      "backgroundAlt": "The logo for DisBotList",
       "inMyLanguage": "Bots in my Language",
       "invite": "Add this bot",
       "support": "Technical Support",
@@ -3121,7 +3121,7 @@ module.exports = {
       }
     },
     "game": {
-      "title": "Terminal.ink Game",
+      "title": "DisBotList Game",
       "description": "Click the button to get points!",
       "leave": "Are you sure you want to leave? You will lose all your points.",
       "score": "You have {kliksphilip, plural, =0 {no points :heejintears:} one {1 point} other {{kliksphilip} points}}."
@@ -3144,7 +3144,7 @@ module.exports = {
   },
   "navbar": {
     "add": "Add a bot",
-    "addRpc": "Add RPC app",
+    "addRpc": "Add App",
     "login": "Login",
     "logout": "Logout",
     "admin": "Administration",
@@ -3209,7 +3209,7 @@ module.exports = {
   },
   "components": {
     "pleaseaddyourbotpleasethanks": {
-      "title": "Get started with Discord Bots",
+      "title": "Get started with DisBotList",
       "innovate": {
         "heading": "Start Innovating",
         "content": "Learn to create your own Discord application for your own personal server"
