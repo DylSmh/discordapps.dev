@@ -101,7 +101,7 @@ class Home extends Component {
           <ContentBox className={styles.sliderContainer}>
             <LazyImage src={hkImage} className={styles.sliderImage} />
             <div className={styles.sliderContents}>
-            <h3>DisBotList</h3>
+            <h3>DisBotLists</h3>
               <p><FormattedMessage id="pages.home.discover.description" /></p>
               <p>
                 <LocalisedHyperlink to="/posts">
