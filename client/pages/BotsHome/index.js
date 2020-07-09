@@ -20,7 +20,7 @@ class BotsHome extends Component {
             <FormattedMessage id="pages.bots.index.description">
               {description =>
                 <Helmet>
-                  <title>{title}</title>
+                  <title>DisBotList</title>
                   <meta property="og:title" content={title}/>
                   <meta property="og:description" content={description}/>
                   <meta name="description" content={description}/>
